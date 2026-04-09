@@ -58,6 +58,8 @@ bun run dev
 
 The application will be available at [http://localhost:5173/](http://localhost:5173/) by default.
 
+Deployment Link --https://wall-calender-red.vercel.app/
+
 ## Available Scripts
 
 - `dev`: Starts the Vite development server.
